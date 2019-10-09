@@ -1,3 +1,16 @@
+# New for Me.
+
+## 1. 百度网盘下载加速
+1. install [golang](https://golang.org/dl/)
+2. install BND2
+```bash
+git clone https://github.com/b3log/baidu-netdisk-downloaderx
+cd baidu-netdisk-downloaderx/bnd2
+./build.sh
+cd baidu-netdisk-downloaderx/bnd2/electron/dist
+# install *.dmg
+```
+
 # 开发效率提升之工具篇
 
 ### 导读
